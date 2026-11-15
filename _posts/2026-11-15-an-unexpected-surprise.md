@@ -15,17 +15,17 @@ twitter:
   card: summary_large_image
 ---
 
-What’s a little extra you could give your customers that they’d be genuinely happy to get? A spare stem from a florist. A cookie tucked into a takeaway bag. Five Guys burgers are famous for their generous helping of extra fries. Something small enough that you can just say, “Here, this is just for you.”
+What’s a little extra you could give your customers that they’d be genuinely happy to get? Two warm [Cheddar Bay Biscuits](https://www.redlobster.com/ORDER/biscuits-extras) with your entrée at Red Lobster. A warm [chocolate chip cookie](https://stories.hilton.com/doubletree-cookie) when you check in at DoubleTree by Hilton. Five Guys burgers are famous for their generous helping of [extra fries](https://www.fiveguys.com/support-hub/faqs/). Something small enough that you can just say, “Here, this is just for you.”
 
-Let’s use ComicFire to storyboard one of these moments. Imagine a fictional catering business called ‘Lunch Tables’. Three coworkers have ordered sandwiches and salad for an office lunch. Their meal arrives with a little teal box.
+Let’s use ComicFire to storyboard one of these moments. Imagine a fictional catering business called ‘Lunch Tables’. Three coworkers have ordered sandwiches and salad for an office lunch. Their meal arrives along with a unexpected little teal box.
 
 1. Latch, the brand’s lunchbox mascot, brings out the food. “Lunch is here! And there’s a little surprise.”
-2. One of the coworkers opens the box. “Garlic breadsticks!!!”
+2. One of the coworkers opens the box. “Garlic breadsticks!!!” everyone yells out in unison.
 3. Latch gets the last word. “A little extra—on the house!”
 
 My favorite bit is how excited they are about the breadsticks. They were already smiling when lunch arrived. Then the lid comes off and all three lean in. If you’re storyboarding a surprise, give the reaction its own panel. That’s the part that tells us what the gesture meant to the people on the receiving end.
 
-What’s the little extra **YOU** could throw in for your customers? How would you show the look on their faces?
+What’s the little extra **YOU** could throw in for your customers? And what would the reaction on their faces be?
 
 `#branding` `#storytelling` `#visualstorytelling` `#visualbranding` `#comicfire` `comicfire.com`
 
