@@ -15,35 +15,34 @@ twitter:
   card: summary_large_image
 ---
 
-Remember those Close-Up toothpaste ads? I found one from 1977 that led with a bright smile, fresh breath, and the possibility of winning someone over. The gel, the whiteners, and the mouthwash were all in the ad. The headline gave you a reason to read that far. [Close-Up ad, 1977](https://afsa.org/sites/default/files/fsj-1977-09-september_0.pdf#page=5)
+Remember those [old Close-Up toothpaste ads from the 70s](https://afsa.org/sites/default/files/fsj-1977-09-september_0.pdf#page=5)? They all led with the promise of a bright smile, fresh breath, and the possibility of winning someone over. The ingredients were all secondary details in those ads.
 
-Kodak did something similar in 1888 with “You press the button, we do the rest.” And when Apple introduced the iPod in 2001, it put “1,000 Songs in Your Pocket” in the headline. The 5 GB hard drive was in the details. You could already imagine taking your music with you. [George Eastman Museum](https://www.eastman.org/camera-obscura-revolutionary-kodak) · [Apple’s iPod announcement](https://www.apple.com/newsroom/2001/10/23Apple-Presents-iPod/)
+Eastman Kodak did something similar in 1888 with ["You press the button, we do the rest"](https://en.wikipedia.org/wiki/You_Press_the_Button,_We_Do_the_Rest). And when Apple introduced the iPod in 2001, it put [“A 1000 Songs in Your Pocket”](https://www.youtube.com/watch?v=mM6InCC_ee0) in the headline. The 5 GB hard drive was in the details.
 
-Let’s try this with a fictional neighborhood café called CopperCup. They bake a special batch of cinnamon loaves on Saturdays. The loaves tend to sell out, so the café lets people reserve one online.
+Talk about brand recall for generations!
 
-Here's a flyer that their content team would generally post on social media.
+Let’s switch gears to a fictional neighborhood café called CopperCup. They added a new feature to their website that allows customers to pre-order the Saturday specials; their popular cinnamon loaves tend to sell out fast.
 
-![CopperCup’s Saturday cinnamon loaf flyer. Preorder online before they sell out at example.com/coppercup/preorder.]({{ '/images/sell-outcomes-1.jpg' | relative_url }})
+Their content team creates a flyer and posts it to various social media platforms. Customers can tell at a glance what’s baking, when it’s available, and where to order.
 
-Customers can tell at a glance what’s baking, when it’s available, and where to order. If they’re already craving cinnamon bread, that’s plenty.
+A useful feature announcement, but it completely misses the "why".
 
-Instead, let's use ComicFire to tell a little story about one of their customers.
+![CopperCup’s Saturday cinnamon loaf flyer. Pre-order online before they sell out at example.com/coppercup/preorder.](../../../images/sell-outcomes-1.jpg)
 
-![Mia and her dad find the cinnamon loaves sold out. The next Saturday, Dad reserves a loaf on his phone, and Mocha hands it to a grinning Mia at the café.]({{ '/images/sell-outcomes-2.jpg' | relative_url }})
+Let's use ComicFire to compose a little story for this scenario.
 
-Mia and her dad get to the café and find an empty shelf. “Oh no, not again.” The next Saturday, Dad reserves a loaf on his phone before they head out. When they get to the counter, Mocha calls out, “Cinnamon loaf for Mia.”
+- Mia and her dad get to the café and find an empty shelf. “Oh no, not again.” Deja vu, looks this has happened many weekends in a row.
+- The following Saturday, Dad remembers to pre-order the weekend specials on his phone before they head out.
+- When they get to the counter, Mocha (the brand mascot) calls out, “Cinnamon loaf for Mia.” Cue, joy on Mia's face.
 
 My favorite bit is Mia’s face when she hears her name. She finally gets the loaf she’s been looking forward to, and for a moment it feels like the café was expecting her. That’s quite a lot to get across with a paper bag and a grin.
 
-<p>
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="{{ '/images/sell-outcomes-4.jpg' | relative_url }}">
-    <img src="{{ '/images/sell-outcomes-3.gif' | relative_url }}" alt="Mocha hands Mia a cinnamon loaf bag labeled with her name. Mia grins as Dad looks on.">
-  </picture>
-</p>
+This is the outcome, pictured.
 
-If you’re trying this for your own brand, pick a feature you talk about all the time and imagine one customer using it on an ordinary day.
+![Mia and her dad find the cinnamon loaves sold out. The next Saturday, Dad reserves a loaf on his phone, and Mocha hands it to a grinning Mia at the café.](../../../images/sell-outcomes-2.jpg)
 
-**What’s the outcome you want your customers to have? What would it look like in three panels?**
+If you’re trying this for your own brand, talk about your feature for sure, but help customers visualize the outcome too.
 
 `#branding` `#storytelling` `#visualstorytelling` `#visualbranding` `#comicfire` `comicfire.com`
+
+![Mocha hands Mia a cinnamon loaf bag labeled with her name. Mia grins as Dad looks on.](../../../images/sell-outcomes-3.gif)
