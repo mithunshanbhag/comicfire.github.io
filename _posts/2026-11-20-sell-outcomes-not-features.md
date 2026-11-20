@@ -33,7 +33,7 @@ Let's use ComicFire to compose a short story for this scenario.
 - The following Saturday, Dad remembers to pre-order the weekend specials on his phone before they head out.
 - When they get to the counter, Mocha (the brand mascot) calls out, “Cinnamon loaf for Mia.” Cue joy on Mia's face.
 
-My favorite bit is Mia’s face when she hears her name. She finally gets the loaf she’s been looking forward to, and for a moment it feels like the café was expecting her. That’s a lot to get across with a paper bag and a grin.
+My favorite bit is Mia’s face when she hears her name. She finally gets the loaf she’s been looking forward to, and for a moment it feels like the café was expecting her. That’s a lot to get across with a paper bag and a grin. And the cinnamon loaves aren't even included in the visuals! 😀
 
 This is the outcome, pictured.
 
