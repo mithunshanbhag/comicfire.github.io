@@ -23,7 +23,7 @@ Talk about brand recall for generations!
 
 Let’s switch gears to a fictional neighborhood café called CopperCup. They added a new website feature to enable pre-orders for their Saturday specials: their popular cinnamon loaves, which tend to sell out fast.
 
-Their content team has created a flyer and posted it all over social media. Customers can tell at a glance what’s baking, when it’s available, and where to order. A useful feature announcement, but it completely misses the "why".
+Their content team created a flyer and posted it all over social media. Customers can tell at a glance what’s baking, when it’s available, and where to order. A useful feature announcement, but it completely misses the "why".
 
 ![CopperCup’s Saturday cinnamon loaf flyer. Pre-order online before they sell out at example.com/coppercup/preorder.](../../../images/sell-outcomes-1.jpg)
 
