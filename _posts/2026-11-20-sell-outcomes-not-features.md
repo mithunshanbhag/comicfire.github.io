@@ -21,7 +21,7 @@ Eastman Kodak did something similar in 1888 with ["You press the button, we do t
 
 Talk about brand recall for generations!
 
-Let’s switch gears to a fictional neighborhood café called CopperCup. They added a new feature to their website that allows customers to pre-order the Saturday specials; their popular cinnamon loaves tend to sell out fast.
+Let’s switch gears to a fictional neighborhood café called CopperCup. They added a new website feature to enable pre-orders for their Saturday specials: their popular cinnamon loaves, which tend to sell out fast.
 
 Their content team creates a flyer and posts it to various social media platforms. Customers can tell at a glance what’s baking, when it’s available, and where to order.
 
@@ -29,19 +29,19 @@ A useful feature announcement, but it completely misses the "why".
 
 ![CopperCup’s Saturday cinnamon loaf flyer. Pre-order online before they sell out at example.com/coppercup/preorder.](../../../images/sell-outcomes-1.jpg)
 
-Let's use ComicFire to compose a little story for this scenario.
+Let's use ComicFire to compose a short story for this scenario.
 
-- Mia and her dad get to the café and find an empty shelf. “Oh no, not again.” Deja vu, looks this has happened many weekends in a row.
+- Mia and her dad get to the café and find an empty shelf. “Oh no, not again.” Deja vu? Has this happened many weekends in a row?
 - The following Saturday, Dad remembers to pre-order the weekend specials on his phone before they head out.
-- When they get to the counter, Mocha (the brand mascot) calls out, “Cinnamon loaf for Mia.” Cue, joy on Mia's face.
+- When they get to the counter, Mocha (the brand mascot) calls out, “Cinnamon loaf for Mia.” Cue joy on Mia's face.
 
-My favorite bit is Mia’s face when she hears her name. She finally gets the loaf she’s been looking forward to, and for a moment it feels like the café was expecting her. That’s quite a lot to get across with a paper bag and a grin.
+My favorite bit is Mia’s face when she hears her name. She finally gets the loaf she’s been looking forward to, and for a moment it feels like the café was expecting her. That’s a lot to get across with a paper bag and a grin.
 
 This is the outcome, pictured.
 
 ![Mia and her dad find the cinnamon loaves sold out. The next Saturday, Dad reserves a loaf on his phone, and Mocha hands it to a grinning Mia at the café.](../../../images/sell-outcomes-2.jpg)
 
-If you’re trying this for your own brand, talk about your feature for sure, but help customers visualize the outcome too.
+If you’re trying this for your own brand, talk about your feature, but help customers visualize the outcome too.
 
 `#branding` `#storytelling` `#visualstorytelling` `#visualbranding` `#comicfire` `comicfire.com`
 
