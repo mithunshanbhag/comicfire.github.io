@@ -21,7 +21,7 @@ In 1989, **Hampton Inn** told guests that if they were unhappy with their stay, 
 
 Want to hear a story about a brand keeping someone else's promise? You read that right! In 1975, a man rolled two used tires into a **Nordstrom** store in Fairbanks, Alaska. He’d driven more than 50 miles. The retailer that used to occupy that location had sold him the tires and promised he could return them anytime. Nordstrom associate Craig Trounce knew very little about tires, so he called a tire company, found out what the pair was worth, [and paid the man that amount](https://press.nordstrom.com/news-releases/news-release-details/nordy-pod-truth-about-nordstroms-legendary-tire-story). What??? 😄
 
-I want to storyboard a "promise kept" story for "Lunch Tables" - a fictional catering business. Their promise is simple - timely delivery of lunches by noon.
+I want to storyboard a "promise kept" story for "Lunch Tables" - a fictional catering business. Their promise is simple - timely lunch delivery by noon.
 
 Let’s storyboard this from the workshop organizer’s point of view. The story beats are as follows:
 
@@ -33,7 +33,7 @@ Let’s storyboard this from the workshop organizer’s point of view. The story
 
 ![a promise kept - full comic](../../../images/promise-kept-1.jpg)
 
-It's the first two panels, that actually tell the story - A worry, followed by reassurance from the brand. The trays of food in the final panel visually reinforce the promise kept.
+It's the first two panels that actually tell the story - A worry, followed by reassurance from the brand. The trays of food in the final panel visually reinforce the promise kept.
 
 Think about a promise your customers count on you to keep. If you had three panels to tell that story, what would your customer be worrying about in the first one? And what would they see in the last?
 
